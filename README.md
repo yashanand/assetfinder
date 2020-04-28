@@ -37,7 +37,7 @@ Please feel free to issue pull requests with new sources! :)
 * virustotal
     * Needs `VT_API_KEY` environment variable set (https://developers.virustotal.com/reference)
 * findsubdomains
-    * Needs `SPYSE_API_TOKEN` environment variable set (the free version always gives the first response page, and you also get "25 unlimited requests") — (https://spyse.com/apidocs)
+    * Needs `SPYSE_API_TOKEN` environment variable set (the free version always gives the first response page, and you also get "25 unlimited requests") — (https://spyse.com/docs/api)
 
 ### Sources to be implemented
 * http://api.passivetotal.org/api/docs/
